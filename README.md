@@ -1,2 +1,2 @@
 # hello-world
-the repository
+the repository aims at practising how to use github！
